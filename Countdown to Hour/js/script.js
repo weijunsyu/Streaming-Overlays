@@ -11,7 +11,7 @@ function runTimer() {
     let difference = targetTime - currentTime;
     
     // If countdown reached 0 then start counting up
-    if (difference <= 0) {
+    if (difference < 0) {
         difference = Math.abs(difference);
     }
     
