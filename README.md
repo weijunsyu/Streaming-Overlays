@@ -19,3 +19,9 @@ Countdown To Hour:
 Social Media Overlay:
 - Shows your social media links.
 - Change HTML placeholder text (my social media) to your own social media links.
+
+Matrix Digital Rain:
+- Shows a digital rain / Matrix waterfall.
+- Supports transparency, layering of waterfalls, and message injection.
+- Modify the background colour in the css.
+- Modify the animation (speed, number of waterfalls, messages, etc) in the main() function within the javascript file.
